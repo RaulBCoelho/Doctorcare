@@ -679,7 +679,7 @@ footer .social-links {
  #services h2 {
   width: 47rem;
   margin-inline: auto;
-  margin-bottom: 6.4rem;
+  /*margin-bottom: 6.4rem;*/
  }
 
  #services .cards {
